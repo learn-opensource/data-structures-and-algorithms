@@ -1,6 +1,6 @@
 <img
-src="https://github.com/learn-opensource/data-structures-and-algorithms/blob/master/images/dsa.png"
-alt="screen shot of the landup page"
+src="https://raw.githubusercontent.com/learn-opensource/data-structures-and-algorithms/main/images/dsa.png"
+alt="Image taken from geeks from geeks. rights reserved to respective owner."
 width="100%"
 height="auto"
 />
